@@ -1,5 +1,5 @@
 # Higher-Lower-Game-Project
-Play a game where you guess who has higher Instagram followers
+Play a game where you guess who has higher Instagram followers.
 
 
 ## Getting Started
