@@ -45,9 +45,10 @@ def play_game(optionA, optionB):
         else:
             score += 1
             isCorrect = True
-            if answer == "A":
+            if follower_count(optionB) > follower_count(optionA):
                 optionA = optionB
             optionB = random.choice(data)
+    ask_to_restart()
 
 
 # Restarts game
@@ -73,4 +74,3 @@ def generate_options():
 
 optionA, optionB = generate_options()
 play_game(optionA, optionB)
-ask_to_restart()
