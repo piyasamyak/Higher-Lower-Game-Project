@@ -6,5 +6,5 @@ Play a game where you guess who has higher Instagram followers
 Clone the repository
 
 ```
-Run main.py inside directory: ../Higher-Lower-Game-Project
+Run 'main.py' inside directory: ../Higher-Lower-Game-Project
 ```
