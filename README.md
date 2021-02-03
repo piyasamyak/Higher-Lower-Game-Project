@@ -1,10 +1,17 @@
 # Higher-Lower-Game-Project
 Play a game where you guess who has higher Instagram followers
 
-# Usage
 
-Clone the repository
+## Getting Started
+Navigate to the downloaded file directory in a terminal and run the following command:
 
-```
-Run 'main.py' inside directory: ../Higher-Lower-Game-Project
-```
+`python main.py`
+
+## What I Learned
+* Defining and breaking down a program into multiple functions
+* Returning multiple values from a function
+* Performing complex computations
+* Looping through a dictionary
+* Using f-Strings
+* Executing a program until the user wants to terminate
+
