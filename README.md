@@ -3,7 +3,7 @@ Play a game where you guess who has higher Instagram followers.
 
 
 ## Getting Started
-Navigate to the downloaded file directory in a terminal and run the following command:
+Navigate to the downloaded file directory in a terminal window and run the following command:
 
 `python main.py`
 
